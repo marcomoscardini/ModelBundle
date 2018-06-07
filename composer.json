@@ -1,5 +1,5 @@
 {
-    "name" : "gacmodelbundle",
+    "name" : "gac/modelbundle",
     "description" : "A common model bundle",
     "type" : "symfony-bundle",
     "authors" : [{
@@ -19,7 +19,7 @@
             "Gac\\ModelBundle" : ""
         }
     },
-    "target-dir" : "Gac/ModelBundle",
+    "target-dir" : ".",
     "repositories" : [{
     }],
     "extra" : {
