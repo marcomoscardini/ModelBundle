@@ -6,7 +6,7 @@
  * and open the template in the editor.
  */
 
-namespace Gac\Bundle\ModelBundle;
+namespace gacmodelbundle\Gac\Bundle\ModelBundle;
 
 use Symfony\Component\HttpKernel\Bundle\Bundle;
 

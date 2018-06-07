@@ -1,5 +1,5 @@
 {
-    "name" : "gac/modelbundle",
+    "name" : "gacmodelbundle",
     "description" : "A common model bundle",
     "type" : "symfony-bundle",
     "authors" : [{
