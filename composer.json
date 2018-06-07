@@ -1,13 +1,13 @@
 {
-    "name" : "company/demobundle",
-    "description" : "A demo bundle",
+    "name" : "gac/modelbundle",
+    "description" : "A common model bundle",
     "type" : "symfony-bundle",
     "authors" : [{
-        "name" : "demo",
-        "email" : "demo@company.com"
+        "name" : "Marco Moscardini",
+        "email" : "marco_moscardini@hotmail.com"
     }],
     "keywords" : [
-        "demo bundle"
+        "common model bundle"
     ],
     "license" : [
         "MIT"
@@ -16,10 +16,10 @@
     },
     "autoload" : {
         "psr-0" : {
-            "Company\\DemoBundle" : ""
+            "Gac\\ModelBundle" : ""
         }
     },
-    "target-dir" : "Company/DemoBundle",
+    "target-dir" : "Gac/ModelBundle",
     "repositories" : [{
     }],
     "extra" : {
